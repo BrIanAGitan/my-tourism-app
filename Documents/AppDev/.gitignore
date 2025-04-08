@@ -1,0 +1,13 @@
+# Python
+env/
+__pycache__/
+*.pyc
+db.sqlite3
+
+# Node/Vite
+node_modules/
+dist/
+
+# IDEs
+.vscode/
+.idea/
